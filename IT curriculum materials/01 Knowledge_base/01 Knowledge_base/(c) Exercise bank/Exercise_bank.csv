@@ -1,0 +1,202 @@
+﻿ID,Type,Question Content
+E001,Multiple Choice,"Which of the following best describes the relationship among data, information, and knowledge? A. Knowledge is the rawest form; data comes after processing. B. Data is the symbolic representation, information is the meaning of data, knowledge is the abstract product of refined information. C. They are unrelated concepts. D. Data and information are identical."
+E002,Multiple Choice,Information has several basic features. Which of the following is NOT one of them? A. Carrier dependency. B. Timeliness. C. Value. D. Permanence.
+E003,Multiple Choice,A teacher records students' math scores in an Excel spreadsheet. What does each score most directly represent? A. Knowledge. B. Information. C. Data. D. Wisdom.
+E004,Multiple Choice,Which of the following is an example of indirect data acquisition? A. Conducting a survey. B. Observing an experiment. C. Downloading weather data from a public API. D. Using a thermometer.
+E005,Multiple Choice,"To convert the decimal number 173 to binary, the result is: A. 10101101. B. 11001001. C. 10011101. D. 10101010."
+E006,Multiple Choice,The hexadecimal number '2F' equals which decimal value? A. 47. B. 57. C. 47 decimal. D. 62.
+E007,Multiple Choice,"In ASCII encoding, the uppercase letter 'A' has decimal code 65, then the digit '0' has decimal code: A. 48. B. 16. C. 64. D. 32."
+E008,Multiple Choice,Color in computer displays is commonly described using the RGB model. Each channel has 256 levels represented by: A. 4 bits. B. 8 bits. C. 16 bits. D. 32 bits.
+E009,Multiple Choice,"The three basic steps of sound digitization are: A. Capture, Compression, Storage. B. Sampling, Quantization, Encoding. C. Recording, Editing, Playing. D. Encoding, Decoding, Output."
+E010,Multiple Choice,Which of the following is an example of lossy compression? A. ZIP. B. PNG. C. JPEG. D. RAR.
+E011,Multiple Choice,"Which of the following best describes big data's main characteristics? A. Large volume, multiple types, fast speed, high value. B. Small size, single type, slow speed, low value. C. Only text-based. D. Only used by scientists."
+E012,Multiple Choice,Which chart type is most suitable for showing how a quantity changes over time? A. Pie chart. B. Bar chart. C. Line chart. D. Radar chart.
+E013,Multiple Choice,"An algorithm must have five features: finiteness, definiteness, input, output, and: A. Complexity. B. Feasibility. C. Speed. D. Memory."
+E014,Multiple Choice,Which of the following is NOT a way to describe an algorithm? A. Natural language. B. Flowchart. C. Pseudo-code. D. Spreadsheet formula.
+E015,Multiple Choice,"In a flowchart, which symbol is used to represent a decision (condition check)? A. Rectangle. B. Diamond. C. Oval. D. Parallelogram."
+E016,Multiple Choice,Which of the following is an example of a sequence structure in programming? A. Repeating a block 10 times. B. Checking a password then granting access. C. Executing statements one after another in order. D. Choosing between two options.
+E017,Multiple Choice,The divide-and-conquer strategy works by: A. Trying every possible solution. B. Breaking a problem into smaller sub-problems of the same type and solving them. C. Randomly selecting answers. D. Using brute-force recursion only.
+E018,Multiple Choice,Binary search requires the input array to be: A. Unsorted. B. Sorted. C. In reverse order. D. Empty.
+E019,Multiple Choice,Which of the following is NOT a high-level programming language? A. Python. B. C++. C. Java. D. Machine language.
+E020,Multiple Choice,Which statement is true about machine language? A. It uses English-like keywords. B. It consists of binary 0/1 instructions directly executed by the CPU. C. It is platform-independent. D. It requires an interpreter at runtime.
+E021,Multiple Choice,"In Python, which of the following is a valid variable name? A. 3rd_score. B. for. C. _studentName. D. class."
+E022,Multiple Choice,What is the data type of the value 3.14 in Python? A. int. B. float. C. str. D. bool.
+E023,Multiple Choice,The result of the expression 7 // 2 in Python is: A. 3.5. B. 3. C. 4. D. 1.
+E024,Multiple Choice,The result of the expression 2 ** 3 in Python is: A. 6. B. 8. C. 9. D. 5.
+E025,Multiple Choice,Which comparison operator checks for inequality in Python? A. =. B. ==. C. !=. D. <>.
+E026,Multiple Choice,Which function is used in Python to read a line of text from the keyboard? A. print(). B. input(). C. read(). D. scan().
+E027,Multiple Choice,Which Python function returns the number of items in a sequence? A. count(). B. size(). C. len(). D. length().
+E028,Multiple Choice,"What is the result of range(1, 10, 2)? A. [1,3,5,7,9]. B. [2,4,6,8,10]. C. [1,2,3,4,5,6,7,8,9]. D. [1,3,5,7]."
+E029,Multiple Choice,"A Python for loop iterates over: A. A block of statements once. B. A sequence such as range, list, or string. C. User input. D. Random numbers only."
+E030,Multiple Choice,The break statement in a Python loop: A. Stops the entire program. B. Exits only the innermost enclosing loop. C. Skips the current iteration. D. Continues to the next loop unconditionally.
+E031,Multiple Choice,"After executing ls = [3, 1, 4, 1, 5]; ls.append(9); print(ls), the output is: A. [3,1,4,1,5]. B. [9,3,1,4,1,5]. C. [3,1,4,1,5,9]. D. Error."
+E032,Multiple Choice,Which expression accesses the last element of a list mylist in Python? A. mylist[0]. B. mylist[-1]. C. mylist[last]. D. mylist[len(mylist)+1].
+E033,Multiple Choice,"In Python, s = ""Hello""; print(s[1:4]) outputs: A. Hel. B. ell. C. ello. D. Hell."
+E034,Multiple Choice,What does the ord('a') function return in Python? A. The character 'a'. B. The ASCII (or Unicode) integer code of 'a'. C. 0. D. A boolean.
+E035,Multiple Choice,Which keyword defines a function in Python? A. function. B. def. C. func. D. define.
+E036,Multiple Choice,"Which module in Python provides drawing commands like forward(), left(), right()? A. math. B. random. C. turtle. D. os."
+E037,Multiple Choice,Which module provides sqrt() in Python? A. random. B. turtle. C. math. D. sys.
+E038,Multiple Choice,Which of the following is a system software? A. WPS Office. B. Photoshop. C. Windows 10. D. WeChat.
+E039,Multiple Choice,Which of the following is volatile memory that loses data when power is off? A. ROM. B. Hard disk. C. RAM. D. SSD.
+E040,Multiple Choice,A computer system consists of: A. Only hardware. B. Hardware and software. C. Only software. D. Only the CPU.
+E041,Multiple Choice,A network covering a single building or campus is best described as a: A. WAN. B. MAN. C. LAN. D. PAN.
+E042,Multiple Choice,A network that spans cities or countries is called a: A. LAN. B. WAN. C. PAN. D. WLAN.
+E043,Multiple Choice,Which protocol is the foundation of the modern Internet? A. HTTP. B. FTP. C. TCP/IP. D. SMTP.
+E044,Multiple Choice,What is the main purpose of DNS? A. Encrypt data. B. Translate domain names to IP addresses. C. Block viruses. D. Compress files.
+E045,Multiple Choice,"Which device is most suitable for connecting two different networks (e.g., home LAN to the Internet)? A. Hub. B. Router. C. Switch. D. Cable."
+E046,Multiple Choice,A device that connects multiple computers in a local network using MAC addresses to forward frames is: A. Router. B. Switch. C. Modem. D. Firewall.
+E047,Multiple Choice,Which wireless technology provides very short range communication typically used for mobile payments? A. Bluetooth. B. NFC. C. Wi-Fi. D. 4G.
+E048,Multiple Choice,"Which technology uses radio waves to identify and track tagged objects, commonly used in logistics? A. GPS. B. RFID. C. QR code. D. NFC."
+E049,Multiple Choice,Which network standard provides much higher bandwidth and lower latency than 4G? A. 3G. B. Wi-Fi 5. C. 5G. D. Bluetooth.
+E050,Multiple Choice,"In China, an independently developed global navigation satellite system is: A. GPS. B. GLONASS. C. BeiDou. D. Galileo."
+E051,Multiple Choice,"An information system typically consists of: A. Hardware only. B. Software only. C. People, hardware, software, data, network, and regulations. D. Cloud services only."
+E052,Multiple Choice,Which of the following is NOT one of the five basic functions of an information system? A. Input. B. Processing. C. Storage. D. Marketing.
+E053,Multiple Choice,Which system architecture runs the application logic mostly on a central server while clients use a browser? A. C/S. B. B/S. C. P2P. D. Standalone.
+E054,Multiple Choice,A relational database organizes data into: A. Hierarchical trees. B. Tables (relations) of rows and columns. C. Graphs. D. Sequential files.
+E055,Multiple Choice,Which SQL command retrieves data from a database table? A. INSERT. B. UPDATE. C. SELECT. D. DELETE.
+E056,Multiple Choice,Which backup strategy copies only the data changed since the last full backup? A. Full backup. B. Incremental backup. C. Differential backup. D. Snapshot backup.
+E057,Multiple Choice,The Internet of Things (IoT) primarily relies on which enabling technology to sense the physical world? A. Database. B. Sensors. C. Switches. D. Monitors.
+E058,Multiple Choice,A QR code is best described as: A. One-dimensional barcode storing digits. B. Two-dimensional matrix barcode storing text/URL. C. Magnetic stripe. D. RFID tag.
+E059,Multiple Choice,"Sharing bikes integrate which technologies? A. Only mechanical parts. B. QR codes, GPS, mobile payment, and cloud services. C. Only Wi-Fi. D. Only Bluetooth."
+E060,Multiple Choice,Which of the following is a typical example of a wearable device? A. Desktop computer. B. Smart watch. C. Projector. D. Printer.
+E061,Multiple Choice,A computer virus is best described as: A. Hardware fault. B. A program that intentionally damages computer functions or data. C. A type of firewall. D. An operating system update.
+E062,Multiple Choice,Which of the following is NOT a typical characteristic of computer viruses? A. Propagation. B. Concealment. C. Latency. D. Open-source transparency.
+E063,Multiple Choice,Which of the following is the main function of a firewall? A. Boost CPU speed. B. Filter network traffic according to security rules. C. Increase storage capacity. D. Translate languages.
+E064,Multiple Choice,Which information security attribute ensures that data has not been altered by unauthorized parties? A. Confidentiality. B. Integrity. C. Availability. D. Transparency.
+E065,Multiple Choice,"In symmetric encryption, the encryption key and decryption key are: A. Different. B. The same. C. Public. D. Random."
+E066,Multiple Choice,A digital signature primarily uses which type of cryptography? A. Symmetric. B. Asymmetric (public-key). C. Substitution cipher. D. Steganography.
+E067,Multiple Choice,Cookies on a website are typically used to: A. Run programs on the user's computer. B. Store small pieces of user data (such as login state) on the client. C. Encrypt network traffic. D. Delete files.
+E068,Multiple Choice,Which practice best protects personal privacy when using public Wi-Fi? A. Access bank accounts. B. Disable VPN for sensitive operations. C. Avoid logging into important accounts and consider using mobile data. D. Share passwords publicly.
+E069,Multiple Choice,Which Chinese law specifically targets personal information protection and data security? A. Copyright Law. B. Cybersecurity Law and Personal Information Protection Law. C. Patent Law. D. Trademark Law.
+E070,Multiple Choice,"Netiquette recommends that when chatting online you should: A. Use insulting language to express opinions. B. Be respectful, avoid spam, and respect intellectual property. C. Spread unverified rumors. D. Share others' private information."
+E071,Multiple Choice,Which of the following is an information society characteristic? A. Information economy. B. Network society. C. Digital life. D. All of the above.
+E072,Multiple Choice,Which service is most representative of e-government? A. Online shopping. B. Social media. C. Online handling of social security and tax services. D. Mobile gaming.
+E073,Multiple Choice,Which is NOT a typical e-commerce business model? A. B2C. B. C2C. C. B2B. D. G2G.
+E074,Multiple Choice,AlphaGo's victory over top human Go players primarily demonstrated advances in: A. Database design. B. Web development. C. Deep reinforcement learning. D. Operating system design.
+E075,Multiple Choice,Which biometric characteristic is used by face-recognition attendance systems? A. Fingerprint. B. Voiceprint. C. Facial features. D. DNA sequence.
+E076,Multiple Choice,Which AI branch is concerned with computers understanding and generating human language? A. Computer vision. B. Natural Language Processing (NLP). C. Robotics. D. Expert systems.
+E077,Multiple Choice,Which AI application converts spoken words into written text? A. Speech synthesis. B. Speech recognition. C. Image generation. D. Machine translation.
+E078,Multiple Choice,"Generative AI (such as large language models) is best described as: A. A system that only analyzes data. B. AI that can produce new text, images, or other content in response to prompts. C. A traditional database. D. A type of antivirus."
+E079,Multiple Choice,Cloud computing delivers services primarily over the: A. Postal system. B. Internet. C. Radio broadcast. D. Bluetooth only.
+E080,Multiple Choice,Which is NOT a typical cloud service model? A. IaaS. B. PaaS. C. SaaS. D. TaaS.
+E081,True/False,Information and data are two completely different concepts with no relationship between them.
+E082,True/False,Knowledge is an abstract product formed by processing and refining information over time.
+E083,True/False,RAM retains its data even after the computer is powered off.
+E084,True/False,ROM can typically be written to and is used for long-term storage of data the CPU frequently needs.
+E085,True/False,A flowchart is a graphical representation of an algorithm using standardized symbols.
+E086,True/False,"In Python, indentation is only for readability and does not affect the execution of the program."
+E087,True/False,The Python expression 5 % 2 returns 1.
+E088,True/False,"In Python, 'Hello' + 'World' produces the string 'HelloWorld'."
+E089,True/False,Python list indexes start at 1 for the first element.
+E090,True/False,"The Python code 'for i in range(5):' will execute the loop body exactly 5 times, with i taking the values 0,1,2,3,4."
+E091,True/False,A high-level programming language can be directly executed by the CPU without translation.
+E092,True/False,LAN covers a smaller geographic area than WAN.
+E093,True/False,"An IPv4 address is 32 bits long, while an IPv6 address is 128 bits long."
+E094,True/False,A router connects different networks and forwards packets between them based on IP addresses.
+E095,True/False,Wi-Fi and WLAN are essentially the same concept referring to wireless local area networking.
+E096,True/False,Bluetooth is mainly used for long-range communications across cities.
+E097,True/False,"An information system typically includes hardware, software, data, people, and network components."
+E098,True/False,A relational database stores data in tables consisting of rows and columns.
+E099,True/False,The SQL command 'DELETE FROM students' removes the entire students table from the database.
+E100,True/False,Backing up important data is recommended even on a personal computer.
+E101,True/False,"A computer virus can spread through networks, USB devices, or email attachments."
+E102,True/False,A firewall can completely prevent all viruses from infecting a computer.
+E103,True/False,"In asymmetric encryption, the encryption key and decryption key are different but mathematically related."
+E104,True/False,"Digital signatures cannot provide non-repudiation, because anyone can sign with stolen keys."
+E105,True/False,"Using strong, unique passwords for different accounts helps protect personal information."
+E106,True/False,Cookies are malicious programs designed to damage computers.
+E107,True/False,Downloading and installing pirated commercial software is a violation of intellectual property law.
+E108,True/False,Posting unverified rumors online is unethical and may violate laws.
+E109,True/False,Cyberbullying is illegal in many countries and should be reported when encountered.
+E110,True/False,AI (Artificial Intelligence) refers to computer systems that simulate human intelligence to perform tasks.
+E111,True/False,Machine learning is a subset of AI where systems learn from data rather than from explicit rules.
+E112,True/False,An expert system is a knowledge-based program that emulates a human expert's decision-making in a specific domain.
+E113,True/False,"Autonomous driving relies mainly on computer vision, sensors, and AI decision-making."
+E114,True/False,A fingerprint scanner is an example of biometric recognition technology.
+E115,True/False,"AlphaGo defeated top human Go players using only symbolic reasoning, without deep learning."
+E116,True/False,Cloud computing users typically do not need to manage physical servers themselves.
+E117,True/False,"Big data is characterized by large volume, multiple types, fast speed, and high value."
+E118,True/False,Sample the analog signal of sound at a higher rate typically produces better audio quality after digitization.
+E119,True/False,BeiDou is China's independently developed global satellite navigation system.
+E120,True/False,"A QR code contains only a single row of data, similar to a traditional one-dimensional barcode."
+E121,Fill in the Blank,"The conversion process from analog signal to digital signal generally includes three steps: sampling, quantization, and __________."
+E122,Fill in the Blank,"In ASCII encoding, the decimal code of the character 'A' is 65, so the decimal code of the character 'C' is __________."
+E123,Fill in the Blank,The number (1011) in binary equals _________ in decimal.
+E124,Fill in the Blank,"In Python, the expression 17 // 5 evaluates to _______ (integer)."
+E125,Fill in the Blank,"In Python, the expression 17 % 5 evaluates to _______."
+E126,Fill in the Blank,"In Python, the expression 2 ** 10 evaluates to _______."
+E127,Fill in the Blank,"In Python, after executing s = ""Information""; print(len(s)), the output is _______."
+E128,Fill in the Blank,"In Python, after executing a = [5,2,9,1]; a.sort(); print(a[0]), the output is _______."
+E129,Fill in the Blank,"In Python, the function used to return the Unicode code of a character is _______."
+E130,Fill in the Blank,"In Python, the function used to return the character corresponding to a Unicode code is _______."
+E131,Fill in the Blank,The base-16 number system commonly used in computing is also called _______.
+E132,Fill in the Blank,"In the RGB color model, black is represented as _______ and white as _______ (in 8-bit per channel)."
+E133,Fill in the Blank,The most common small file used by web servers to remember user sessions is called _______.
+E134,Fill in the Blank,The protocol suite that the modern Internet relies on as its foundation is _______.
+E135,Fill in the Blank,The device that connects a home network to the Internet Service Provider is typically a _______.
+E136,Fill in the Blank,The wireless technology used for very short range (around 10 cm) contactless communication such as mobile payments is _______.
+E137,Fill in the Blank,China's independently developed global satellite navigation system is _______.
+E138,Fill in the Blank,"In Python, the function used to generate random integers within a given range is _______."
+E139,Fill in the Blank,"In Python, after executing for i in range(3): print(i), the output is __________."
+E140,Fill in the Blank,The keyword used in Python to define a function is _______.
+E141,Fill in the Blank,"In Python, the keyword that exits the current loop immediately is _______."
+E142,Fill in the Blank,The Python module commonly used for drawing graphics is _______.
+E143,Fill in the Blank,The SQL keyword used to retrieve data from one or more tables is _______.
+E144,Fill in the Blank,The widely used lossless compression format for files and folders on computers is _______.
+E145,Fill in the Blank,The most common bar code that stores data in a two-dimensional matrix of black and white modules is called a _______.
+E146,Fill in the Blank,"The four traditional storage units in increasing order are bit, byte, kilobyte, and _______."
+E147,Fill in the Blank,The number of unique colors an 8-bit per channel RGB image can display is _______ (using powers).
+E148,Fill in the Blank,The backup strategy that copies ALL files every time it runs is called _______ backup.
+E149,Fill in the Blank,The encryption algorithm standard widely used in symmetric cryptography today (and a common Wi-Fi security choice) is _______.
+E150,Fill in the Blank,The branch of AI concerned with enabling computers to interpret images and videos is called _______.
+E151,Multiple Choice,"The six essential links of data processing are: A. Collection, processing, transmission, storage, retrieval, and output. B. Input, calculation, display, save, print, and delete. C. Sampling, quantization, encoding, decoding, storage, and output. D. Search, sort, filter, merge, copy, and paste."
+E152,Multiple Choice,"Which character encoding scheme can represent virtually all written languages in the world, including Chinese, Arabic, and emoji? A. ASCII. B. Unicode. C. BCD code. D. Morse code."
+E153,Multiple Choice,"Which statement about bitmap images and vector images is correct? A. Bitmap images are stored as grids of pixels, while vector images are stored as mathematical formulas. B. Bitmap images never lose quality when enlarged, while vector images do. C. Vector images are composed of pixels arranged in a grid. D. A photo taken by a digital camera is a typical vector image."
+E154,Multiple Choice,"Which data analysis method is used to examine whether two variables have a relationship (e.g., study time and test scores)? A. Comparative analysis. B. Average analysis. C. Correlation analysis. D. Structural analysis."
+E155,Multiple Choice,Which of the following best describes the selection (branch) structure in programming? A. Statements execute one by one in order. B. A block repeats while a condition holds. C. The program chooses different branches according to a condition. D. The program calls itself repeatedly.
+E156,Multiple Choice,The enumeration algorithm works by: A. Testing every possible candidate answer against the conditions. B. Dividing the problem into halves repeatedly. C. Randomly guessing one answer. D. Using mathematical formulas only.
+E157,Multiple Choice,A recursive algorithm is one that: A. Uses loops to repeat operations. B. Calls itself on smaller sub-problems until reaching a base case. C. Never terminates. D. Only works with arrays.
+E158,Multiple Choice,Algorithm efficiency is usually measured by: A. Number of lines of code. B. Time complexity and space complexity. C. Programming language used. D. Screen resolution.
+E159,Multiple Choice,Which of the following is a classic algorithmic strategy? A. Greedy algorithm. B. Dynamic programming. C. Backtracking. D. All of the above.
+E160,Multiple Choice,Assembly language is best described as: A. Binary 0/1 instructions directly executed by CPU. B. A language using English mnemonics such as MOV and ADD that is translated by an assembler. C. A high-level language independent of hardware. D. A natural-language description of algorithms.
+E161,Multiple Choice,"Which statement about the Python language is correct? A. Python is a compiled low-level language. B. Python is an interpreted, high-level, general-purpose language. C. Python can only run on Windows. D. Python code must be written in binary."
+E162,Multiple Choice,"In Python, the expression (True and False) or (not False) evaluates to: A. True. B. False. C. 0. D. Error."
+E163,Multiple Choice,"After executing x = 10 and then x += 5 in Python, the value of x is: A. 5. B. 10. C. 15. D. 105."
+E164,Multiple Choice,"Which Python function converts the string ""123"" into the integer 123? A. str(). B. int(). C. float(). D. ord()."
+E165,Multiple Choice,"In Python, score = 85; if score >= 90: grade = 'A'; elif score >= 80: grade = 'B'; else: grade = 'C'. What is the value of grade? A. A. B. B. C. C. D. Error."
+E166,Multiple Choice,Which of the following is a built-in Python function rather than a user-defined one? A. my_calc(). B. add_student(). C. len(). D. compute_average().
+E167,Multiple Choice,"In Python, which of the following is a comment? A. # This is a comment. B. // This is a comment. C. /* This is a comment. D. ' This is a comment."
+E168,Multiple Choice,"In Python, 10 / 0 raises which type of error? A. SyntaxError. B. ZeroDivisionError (a runtime error). C. NameError. D. IndentationError."
+E169,Multiple Choice,Which of the following is a widely used operating system for personal computers? A. Android. B. Windows. C. iOS. D. HarmonyOS.
+E170,Multiple Choice,Which factor does NOT directly determine CPU performance? A. Clock speed (GHz). B. Number of cores. C. Cache size. D. Screen color depth.
+E171,Multiple Choice,Which of the following is an INPUT device? A. Monitor. B. Scanner. C. Printer. D. Speaker.
+E172,Multiple Choice,Which of the following is an OUTPUT device? A. Keyboard. B. Mouse. C. Microphone. D. Projector.
+E173,Multiple Choice,In which network topology are all devices connected to a central device (such as a switch)? A. Bus. B. Star. C. Ring. D. Mesh.
+E174,Multiple Choice,"In IP networking, the role of a subnet mask is to: A. Encrypt all packets. B. Separate the network portion from the host portion of an IP address. C. Assign domain names. D. Increase bandwidth."
+E175,Multiple Choice,"Which statement about bandwidth and network speed is correct? A. Bandwidth is the theoretical maximum data rate of a link (measured in bps), while actual speed is often lower. B. Bandwidth and speed are always identical. C. Bandwidth is measured in bytes per second only. D. Speed is always higher than bandwidth."
+E176,Multiple Choice,"Which wireless technology is characterized by short range (about 10 m) and is commonly used to connect earphones, speakers, and smartwatches to a phone? A. Bluetooth. B. NFC. C. 5G. D. Wi-Fi."
+E177,Multiple Choice,Which network command is used to test whether a remote host is reachable? A. ping. B. ipconfig. C. format. D. dir.
+E178,Multiple Choice,A system that handles daily transaction records such as ticket booking and order entry is classified as: A. Decision Support System (DSS). B. Transaction Processing System (TPS). C. Expert System. D. Geographic Information System.
+E179,Multiple Choice,"Which of the following is the correct order of typical information system development phases? A. Design, Testing, Requirement analysis, Deployment. B. Feasibility analysis, Requirement analysis, Design, Implementation, Testing, Deployment, Maintenance. C. Implementation, Design, Requirement analysis, Testing. D. Maintenance, Deployment, Design, Analysis."
+E180,Multiple Choice,Access control in an information system means: A. Physically locking the server room. B. Granting different users different permissions to access resources. C. Encrypting all files with the same key. D. Allowing everyone to modify all data.
+E181,Multiple Choice,"Which of the following is a common data analysis task on tabular data? A. Filtering rows by conditions. B. Sorting by a column. C. Aggregating (e.g., summing or averaging groups). D. All of the above."
+E182,Multiple Choice,"The main function of anti-virus software is to: A. Speed up the CPU. B. Detect, prevent, and remove malware. C. Replace the operating system. D. Increase disk capacity."
+E183,Multiple Choice,"HTTPS (HTTP over SSL/TLS) mainly provides: A. Faster downloads. B. Encrypted, secure transmission between the browser and the server. C. Larger storage. D. Automatic translation of web pages."
+E184,Multiple Choice,Which of the following is a typical cybersecurity threat? A. Phishing emails. B. Ransomware. C. Social engineering. D. All of the above.
+E185,Multiple Choice,The term 'digital divide' refers to: A. The gap between the rich and the poor. B. Inequalities in access to and use of information technology among different groups. C. The difference between hardware and software. D. The difference between LAN and WAN.
+E186,Multiple Choice,Which of the following is an example of digital learning? A. Taking an online course on a learning platform. B. Reading a printed textbook. C. Listening to the radio. D. Visiting a library in person.
+E187,Multiple Choice,"Which of the following is an online collaboration tool? A. Video conferencing software (e.g., Tencent Meeting). B. Collaborative document platforms (e.g., Tencent Docs). C. Learning management systems. D. All of the above."
+E188,Multiple Choice,Common mobile payment methods include: A. QR-code scanning payment. B. NFC contactless payment. C. Both A and B. D. Cash payment.
+E189,Multiple Choice,"Shared bikes, shared cars, and online short-term housing rentals are typical examples of: A. E-government. B. The sharing economy. C. Cloud computing. D. Expert systems."
+E190,Multiple Choice,The historical development of AI includes: A. Symbolic reasoning and expert systems. B. Statistical learning. C. Deep learning. D. All of the above in sequence.
+E191,Multiple Choice,Machine translation (such as translating English into Chinese automatically) is a typical application of: A. Computer vision. B. NLP. C. Database technology. D. Robotics.
+E192,Multiple Choice,Intelligent voice assistants such as Siri and Xiao Ai work mainly by combining: A. Speech recognition and natural language processing. B. Database design and SQL. C. Hardware assembly. D. Network routing.
+E193,Multiple Choice,Robots used in manufacturing assembly lines that combine AI perception with mechanical control belong to the field of: A. Robotics. B. Pure database management. C. Web design. D. Office automation only.
+E194,Multiple Choice,Which of the following is an AI application in education? A. Intelligent tutoring systems. B. Automated essay grading. C. Personalized learning recommendation. D. All of the above.
+E195,Multiple Choice,AI is being applied in healthcare for: A. Medical imaging diagnosis. B. Drug discovery. C. Epidemic monitoring. D. All of the above.
+E196,Multiple Choice,"Smart city construction mainly integrates which technologies? A. Cloud computing, big data, and IoT. B. Paper-based records only. C. Traditional mail services. D. Satellite TV."
+E197,Multiple Choice,Which software is a word processor commonly used for writing documents? A. WPS Word / Microsoft Word. B. WPS Excel / Microsoft Excel. C. Paint. D. XMind.
+E198,Multiple Choice,Which tool is typically used to create visual diagrams that organize ideas around a central topic? A. XMind (mind mapping software). B. Calculator. C. Task Manager. D. Disk Cleanup.
+E199,Multiple Choice,Photoshop is mainly used for: A. Editing photos and creating graphics. B. Writing essays. C. Playing music. D. Managing databases.
+E200,Multiple Choice,Microsoft Paint is an example of: A. A spreadsheet program. B. A simple drawing (graphics) program. C. A database system. D. A network protocol.
+E201,Multiple Choice,"Which of the following is required for effective data visualization? A. Clearly defined axes, scales, and labels. B. Deliberately misleading scales. C. Hidden data points. D. Unlabeled charts."
