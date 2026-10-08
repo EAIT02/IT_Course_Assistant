@@ -15,6 +15,7 @@ This appendix documents the three-step development process of the generative AI-
 **Integration prompt:** Throughout the conversation, keep a structured record of each student’s questions and answers. When a student asks a question, first follow the scaffolding rules in Step 1. If a knowledge gap is detected, locate the weak knowledge concept using the Q-matrix in the knowledge base, retrieve the exercise recommended for that student by the ER-TGA algorithm from the personalized exercise bank, and include it in your reply together with a concise, encouraging explanation.
 
 **A dialogue example:**
+
 Student: I’m learning about analog-to-digital conversion in the data encoding section. The textbook “Compulsory Course 1: Data and Computation” lists three steps- sampling, quantization, and encoding- but I don’t really understand how they work or why we need all three steps.
 
 Assistant: Before we break this down together, could you tell me what you have already tried to figure this out? For example, have you worked through any textbook examples, or is there a specific step that confuses you most?
