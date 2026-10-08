@@ -16,13 +16,22 @@ This appendix documents the three-step development process of the generative AI-
 
 **A dialogue example:**
 Student: I’m learning about analog-to-digital conversion in the data encoding section. The textbook “Compulsory Course 1: Data and Computation” lists three steps- sampling, quantization, and encoding- but I don’t really understand how they work or why we need all three steps.
+
 Assistant: Before we break this down together, could you tell me what you have already tried to figure this out? For example, have you worked through any textbook examples, or is there a specific step that confuses you most?
+
 Student: I read the definitions of each step, but I can’t really tell the difference between sampling and quantization. I also don’t get why we can’t just convert an analog signal directly into digital code in one step.
 Assistant: Let’s start with a real-life example you’re familiar with. Think about recording your voice with a phone: your voice is a continuous analog sound wave. If you wanted to save it as a digital file, what do you think you'd need to do first with that continuous wave?
+
 Student: Um… take measurements of the wave at different points in time?
+
 Assistant: Exactly. That first step, taking regular “snapshots” of the analog signal at fixed time intervals, is sampling. Now, each snapshot gives you a voltage value that can be any number on a continuous scale. If you want to store those values with limited digital storage space, what do you think you would need to do next?
+
 Student: Round those values to some fixed, predefined levels?
+
 Assistant: That is quantization: mapping the continuous sampled amplitude values to a finite set of discrete levels. Now we have discrete numerical values, but they are still just ordinary numbers. How do you think we turn those numbers into a form that computers can store and process?
+
 Student: Convert them into binary code?
+
 Assistant: Precisely. That final step of converting each quantized value into a standard binary digital format is encoding. To summarize: sampling discretizes the signal in time, quantization discretizes it in amplitude, and encoding converts it into machine-readable digital form. Would you like to walk through a concrete numerical example to check your understanding?
+
 Student: OK. Let’s begin.
